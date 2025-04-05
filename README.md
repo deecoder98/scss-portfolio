@@ -1,3 +1,3 @@
 # scss-portfolio
 Visit
-[Scss Portfolio](https://deepeshrohilla.github.io/scss-portfolio)
+[Scss Portfolio](https://deecoder98.github.io/scss-portfolio)
